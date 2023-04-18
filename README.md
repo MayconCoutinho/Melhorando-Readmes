@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#Juros"> 💵 Juros compostos </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Portfólio"> 🎨 Portfólio </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#Portfólio"> 🎨 Portfólio </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#preçosMudar"> 💸 Os preços podem mudar? </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Motivo"> 👶 Motivo </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
