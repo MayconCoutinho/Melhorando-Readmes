@@ -19,9 +19,7 @@
   <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Resultados"> 🚀 Resultados </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#osso"> 🦴 Só o osso </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Mentorias">💡 Mentoria Focada </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Juros"> 💵 Juros compostos </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Portfólio"> 🎨 Portfólio </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#Mentorias">💡 Mentoria Focada </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -29,14 +27,17 @@
   <a href="#LinkedIn"> 🧑 LinkedIn </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Dúvidas"> 🤔 Dúvidas </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pagar"> 💰 Como pagar </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#agendar"> 📆 Como agendar? </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#agendar"> 📆 Como agendar? </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+<p align="center">
+  <a href="#Juros"> 💵 Juros compostos </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Portfólio"> 🎨 Portfólio </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#preçosMudar"> 💸 Os preços podem mudar? </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Motivo"> 👶 Motivo </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<br/>
-
-<a href="#Sumário"> 📖 Volta para o Sumário </a>
 
 <br/>
 
@@ -117,8 +118,7 @@
 
 📆 Agende aqui: https://calendly.com/wouerner/so-o-osso
 
-**Como funciona?**  
-Quando marcar vamos entrar na chamada e vamos trocar ideia até horário maximo.
+⚙ **Como funciona?**  Quando marcar vamos entrar na chamada e vamos trocar ideia até horário maximo.
 
 <br/>
 
@@ -159,6 +159,8 @@ Quando marcar vamos entrar na chamada e vamos trocar ideia até horário maximo.
 ### 💰 Valor: R$ 15,00   
 ### ⏳ Tempo: até 10 minutos    
 
+<br/>
+
 
 📆 Agende aqui: https://calendly.com/wouerner/portfolio
 
@@ -181,6 +183,8 @@ Você pode entrar na chamada, mas só vou interagir com vc quando terminar o vid
 
 ### 💰 Valor: R$ 10,00  
 ### ⏳ Tempo: até 4 minutos    
+
+<br/>
 
 
 📆Agende aqui: https://calendly.com/wouerner/linkedin 
