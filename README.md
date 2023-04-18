@@ -21,7 +21,11 @@
   <a href="#osso"> 🦴 Só o osso </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Mentorias">💡 Mentoria Focada </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Juros"> 💵 Juros compostos </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Portfólio"> 🎨 Portfólio </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Portfólio"> 🎨 Portfólio </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<p align="center">
   <a href="#LinkedIn"> 🧑 LinkedIn </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Dúvidas"> 🤔 Dúvidas </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pagar"> 💰 Como pagar </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
