@@ -246,6 +246,8 @@ Você pode entrar na chamada, mas só vou interagir com vc quando terminar o vid
 # 👶 Motivo 
 > Primeiro, meu filho Gael vai chegar em Agosto, então vou usar essa grana para comprar fraldas, basicamente é isso.   
 
+<br/>
+
 ***⠀⠀⠀⠀Eu não consigo prestar esse serviço de graça pois se abrir isso gratuitamente eu loto minha agenda facilmente 2 semanas, então vamos usar o PIX como filtro, até porque já levei muito furo de fazendo gratuito. Então nunca mais faço nada gratuito sem uma contra partida.***
 
 <br/>
